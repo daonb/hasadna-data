@@ -1,0 +1,9 @@
+{
+	"title"		    : { "he" : "מידע ממשרד החינוך",
+						"en" : "Israeli ministry of education information" },
+	"update_date"   : "12/4/2011",
+	"author"	    : { "en" : "Benny Daon",
+					    "he" : "בני דאון" },
+	"contact" 		: { "email" : "bennydaon@gmail.com" },
+	"subcatalogs"   : [ "students", "disabilities" ]
+}
